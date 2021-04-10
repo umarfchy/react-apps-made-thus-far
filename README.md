@@ -1,4 +1,4 @@
-# React Apps I Made Thus Far!!!
+# React Apps I Have Made Thus Far!!!
 
 ### 1. English Premiere League Team List
 [visit here](https://stoic-yalow-fbef92.netlify.app/)
